@@ -8,4 +8,4 @@ Aplikasi ini dibuat untuk mempermudah dalam pemesanan dokter berdasarkan lokasi 
 - buka XAMPP dan jalankan
 - import docased.sql ke dalam phpmyadmin
 - buka dengan localhost/docased/register.php(untuk pasien)
-- buka dengan localhost/docased/registerdokter.php(untuk dokter)
+- buka dengan localhost/docased/logindokter.php(untuk dokter)
